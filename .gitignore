@@ -1,0 +1,65 @@
+#Mac 
+**/.DS_Store
+#
+#
+#eclipse
+*.pydevproject
+.metadata
+**/.classpath
+**/.project
+**/.settings/
+# Locally stored "Eclipse launch configurations"
+*.launch
+# External tool builders
+.externalToolBuilders/
+#
+# CDT-specific
+.cproject
+#
+.recommenders
+.ucdetector_reports
+**/.apt_generated
+#
+#Maven
+**/target
+**/bin
+#jmockit
+coverage-report
+coverage-report/
+coverage.check.failed
+# PDT-specific
+.buildpath
+##
+#java
+**/*.class
+
+#Shell
+.ssh
+.bash_history
+#
+#vi
+**/*.swp
+**/*.tmp
+**/._viminfo
+#
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+#
+*.swp
+*.tmp
+*~
+*~.nib
+._viminfo
+.bash_history
+.classpath
+.loadpath
+_viminfo
+local.properties
+tmp/
+#
+*.bak
+/*.txt
+**/*.log
