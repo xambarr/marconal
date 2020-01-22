@@ -7,33 +7,7 @@
    <body>
       <menu ref="reports"/>
       <menu >
-         <item name="AradaAPI" href="../AradaAPI/AradaAPI/index.html"/>
-         <item name="common" href="../common/common/index.html"/>
-          <item name="CommonAPI" href="../CommonAPI/CommonAPI/index.html"/>
-         <item name="configserver" href="../configserverconfigserver/index.html"/>
-         <item name="DesertLightEmulator" href="../DesertLightEmulator/DesertLightEmulator/index.html"/>
-          <item name="EmulatorModels" href="../EmulatorModels/EmulatorModels/EmulatorModels/EmulatorModels/index.html"/>
-         <item name="feeder" href="../feeder/feeder/index.html"/>
-         <item name="feederModule" href="../feederModule/feederModule/index.html"/>
-          <item name="gms" href="../gms/gms/index.html"/>
-         <item name="MDMDAO" href="../MDMDAO/MDMDAO/index.html"/>
-         <item name="model" href="../model/model/index.html"/>
-         <item name="outage" href="../outage/outage/index.html"/>
-         <item name="PTT-API" href="../PTT-API/PTT-API/index.html"/>
-         <item name="settings" href="../settings/settings/index.html"/>
-          <item name="tana-api" href="../tana-api/tana-api/index.html"/>
-         <item name="Server" href="../Server/Server/index.html"/>
-         <item name="simulator" href="../simulator/simulator/index.html"/>
-          <item name="simulatorModule" href="../simulatorModule/simulatorModule/index.html"/>
-         <item name="tanaHeadend" href="../tanaHeadend/tanaHeadend/index.html"/>
-         <item name="testlib" href="../testlib/testlib/index.html"/>
-          <item name="vee" href="../vee/vee/index.html"/>
-         <item name="VeeRuleEngine" href="../VeeRuleEngine/VeeRuleEngine/index.html"/>
-         <item name="waterMeterSimulator" href="../waterMeterSimulator/waterMeterSimulator/index.html"/>
-          <item name="wGMS" href="../wGMS/wGMS/index.html"/>
-          <item name="EffectivePermission" href="../EffectivePermission/EffectivePermission/index.html"/>
-          <item name="RequestPermission" href="../RequestPermission/RequestPermission/index.html"/>
-          <item name="reportPrinter" href="../reportPrinter/reportPrinter/index.html"/>
+         <item name="common" href="../common/common/index.html"/>      
           
       </menu>
    </body>
